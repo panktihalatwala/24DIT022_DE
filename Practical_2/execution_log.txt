@@ -1,0 +1,18 @@
+DATA QUALITY EXECUTION LOG
+==========================
+Date: 2026-08-04 12:58:32.368657
+
+Missing Values:
+CustomerID    0
+Name          0
+Email         0
+Phone         0
+City          0
+Age           0
+dtype: int64
+
+Duplicate Customer IDs: 0
+Invalid Emails: 0
+Invalid Age Records: 0
+
+Overall Status: PASS
